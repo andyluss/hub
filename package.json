@@ -1,4 +1,5 @@
 {
+  "name": "hub",
   "type": "module",
   "private": true,
   "scripts": {
