@@ -3,8 +3,9 @@ toc: false
 ---
 
 <div class="hero">
-  <h1>My Data Flow Hub</h1>
-  <h2>My hub to view and focus some important data flows.</h2>
+  <h1>数据流中心 Data Flow Hub</h1>
+  <h2>用来查看和聚焦重要信息流，并获得洞察。</h2>
+  <h2>View and focus important data flows, and get insights.</h2>
 </div>
 
 <div class="grid grid-cols-2" style="grid-auto-rows: 504px;">

@@ -22,6 +22,9 @@ export default {
   // The path to the source root.
   root: "src",
 
+  // Disable the default google api request
+  globalStylesheets: [],
+
   // Some additional configuration options and their defaults:
   // theme: "default", // try "light", "dark", "slate", etc.
   // header: "", // what to show in the header (HTML)
