@@ -3,7 +3,7 @@ toc: false
 ---
 
 <div class="hero">
-  <h1>逍遥看世界<br>Our World in Data Models</h1>
+  <h1>逍遥观世界<br>Our World in Data Models</h1>
   <h2>用数据模型和数据流来查看、聚焦、模拟这世界的重要事物，并获得洞察。<br>View, focus, simulate important things in the world by data models and data flows, and get insights.</h2>
 </div>
 
